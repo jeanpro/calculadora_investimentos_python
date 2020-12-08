@@ -1,2 +1,2 @@
-# calculadora_investimentos_python
+# Calculadora de Investimentos
 Uma calculadora de investimentos em Python
